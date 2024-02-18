@@ -1,0 +1,1 @@
+tämä on verkkosivujen kehittäminen ws00 työpajan kansio.

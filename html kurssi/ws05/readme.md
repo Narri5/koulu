@@ -1,0 +1,1 @@
+Tämä on verkkosivujen kehittäminen ws05 työpajan kansio

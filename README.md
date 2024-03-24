@@ -1,1 +1,1 @@
-Koulutehtäviä
+Tämä on verkkosivujen kehittäminen ws06 työpajan kansio

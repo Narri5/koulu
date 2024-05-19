@@ -1,0 +1,30 @@
+.carousel {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+.carousel-item {
+    text-align: center;
+}
+.carousel ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    width: 300%; /* kolme kuvaa leveydeltään */
+    transition: transform 0.5s ease;
+}
+.carousel ul li {
+        width: 33.33%; /* jokainen kuva vie 33% leveydestä */
+        align-items: center;
+}
+
+.carousel-item {
+    text-align: center;
+}
+body {
+    background-color: aquamarine;
+}
+ul {
+    background-color: black;
+    text-align: center;
+}

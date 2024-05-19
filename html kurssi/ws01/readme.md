@@ -1,1 +1,0 @@
-tämä on verkkosivujen kehittäminen ws01 työpajan kansio.
